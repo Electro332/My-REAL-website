@@ -1,0 +1,12 @@
+/* Made by Timothy Davis */
+h1 {text-align: center;}
+li {margin-top: auto; margin-bottom: auto;}
+a:visited  {color: yellow }
+a:hover {color: yellow;}
+a:active {color:rgb(200, 200, 0);}
+body {color: white; background-color: black}
+.hate {color: red}
+.love {Color: Green;}
+.button {width: 300px; height: 300px; font-style: italic; font-size: xx-large; background-color: red; } 
+hr {background-color: red; height: 300;}
+img {padding: 0 0 0 0;}
